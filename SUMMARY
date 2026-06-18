@@ -1,1 +1,1 @@
-CosaSpoof 是一个用于 ColorOS / realmeUI 的 LSPosed 模块，可伪装 com.oplus.cosa 读取的 ro.boot.prjname 机型代号，以获取目标机型的游戏云控配置。
+ColorOS 游戏云控伪装，用于获取目标机型的游戏云控配置。
